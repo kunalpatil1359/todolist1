@@ -24,9 +24,5 @@ This is a simple web-based Todo List application built using React. It allows us
 
 To run this project locally, you need to have Node.js and npm (Node Package Manager) installed. You can download and install them from [https://nodejs.org/](https://nodejs.org/).
 
-### Installation
 
-1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/kunalpatil1359/todo-list-app.git
